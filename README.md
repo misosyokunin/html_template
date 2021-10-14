@@ -1,2 +1,2 @@
 # html_template
-てすと
+HTMLを作るときのテンプレートです
